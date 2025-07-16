@@ -45,14 +45,6 @@ A **Streamlit-based web application** that classifies uploaded images into one o
 
 ---
 
-## 📁 Project Structure
-cifar10-streamlit-app/
-├── image_classifier.py # Streamlit app script
-├── cifar10_model.h5 # Trained CNN model
-├── requirements.txt # Python dependencies
-├── screenshot.png # App preview image
-└── README.md # This file
-
 
 ---
 
@@ -67,14 +59,14 @@ streamlit run image_classifier.py
 ```
 🖼️ How It Works
 
-Upload a .jpg, .jpeg, or .png image
-The image is resized to 32×32 and normalized
-The CNN model predicts the category and confidence
-Optionally view all class probabilities
+- Upload a .jpg, .jpeg, or .png image
+- The image is resized to 32×32 and normalized
+- The CNN model predicts the category and confidence
+- Optionally view all class probabilities
 
 
 🙋‍♂️ Author
-Amal Roy
-📧 amal.roy2100@gmail.com
-🔗 GitHub – @amalroy2003
+- Amal Roy
+- 📧 amal.roy2100@gmail.com
+- 🔗 GitHub – @amalroy2003
 
