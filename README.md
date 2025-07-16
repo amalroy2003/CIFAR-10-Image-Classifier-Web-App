@@ -64,7 +64,7 @@ cifar10-streamlit-app/
 git clone https://github.com/Amalroy2003/CIFAR-10-Image-Classifier-Web-App.git
 cd CIFAR-10-Image-Classifier-Web-App
 streamlit run image_classifier.py
-
+```
 🖼️ How It Works
 
 Upload a .jpg, .jpeg, or .png image
